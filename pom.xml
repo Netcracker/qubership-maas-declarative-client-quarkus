@@ -25,7 +25,7 @@
         <curator.version>5.1.0</curator.version>
 
         <testcontainers.version>1.18.3</testcontainers.version>
-        <assertj-core.version>3.26.3</assertj-core.version>
+        <assertj-core.version>3.27.3</assertj-core.version>
 
         <maas-declarative-kafka-client.version>5.0.1</maas-declarative-kafka-client.version>
         <maas-client-quarkus-kafka.version>8.0.0</maas-client-quarkus-kafka.version>
