@@ -2,7 +2,6 @@ package com.netcracker.maas.declarative.kafka.quarkus.client;
 
 import org.eclipse.microprofile.config.Config;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Optional;
